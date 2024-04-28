@@ -1,0 +1,1 @@
+select * from course18 natural join grade18 where roll_number='180101008';

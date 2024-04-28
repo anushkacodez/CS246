@@ -1,0 +1,1 @@
+gcc -I/usr/include/mysql y.c -L/usr/lib/mysql -lmysqlclient

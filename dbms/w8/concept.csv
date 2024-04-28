@@ -1,0 +1,96 @@
+DA105,q01s1,Introduction
+DA105,q01s2,Introduction
+DA105,q02s1,System of linear equations
+DA105,q02s2,System of linear equations
+DA105,q03s1,Vector spaces
+DA105,q03s2,Vector spaces
+DA105,q04s1,Linear transformations
+DA105,q04s2,Linear transformations
+DA105,q05s1,Inner-product spaces
+DA105,q05s2,Inner-product spaces
+DA105,q06s1,Ortho-normal basis
+DA105,q06s2,Ortho-normal basis
+DA105,q07s1,Eigenvalues and eigenvectors
+DA105,q07s2,Eigenvalues and eigenvectors
+DA105,q08s1,Hermitian symmetric matrices
+DA105,q08s2,Hermitian symmetric matrices
+DA105,q09s1,Positive definite matrices
+DA105,q09s2,Positive definite matrices
+DA105,q10s1,QR factorization
+DA105,q11s2,Change of basis and similarity
+DA105,q11s1,Change of basis and similarity
+DA105,q12s2,Diagonalization
+DA105,q12s1,Diagonalization
+DA105,q10s2,QR factorization
+DA106,q01s1,Overview of Data Science
+DA106,q01s2,Overview of Data Science
+DA106,q02s1,Data collection and management
+DA106,q02s2,Data collection and management
+DA106,q03s1,Multimodal data
+DA106,q03s2,Multimodal data
+DA106,q04s1,Data collection and curation
+DA106,q04s2,Data collection and curation
+DA106,q05s1,XML and JSON formats
+DA106,q05s2,XML and JSON formats
+DA106,q06s1,Basics of SQL
+DA106,q06s2,Basics of SQL
+DA106,q07s1,Data cleaning
+DA106,q07s2,Data cleaning
+DA106,q08s1,Plots
+DA106,q08s2,Plots
+DA106,q09s1,Reading and exporting data
+DA106,q09s2,Reading and exporting data
+DA106,q10s1,Exploratory data analysis
+DA106,q10s2,Exploratory data analysis
+DA106,q11s1,Outlier detection
+DA106,q11s2,Outlier detection
+DA106,q12s1,Linear regression and Bayes classifier
+DA106,q12s2,Linear regression and Bayes classifier
+DA107,q01s1,Introduction
+DA107,q01s2,Introduction
+DA107,q02s1,OS
+DA107,q02s2,OS
+DA107,q03s1,Booting
+DA107,q03s2,Booting
+DA107,q04s1,Basic Commands - 1
+DA107,q04s2,Basic Commands - 1
+DA107,q05s1,Basic Commands - 2
+DA107,q05s2,Basic Commands - 2
+DA107,q06s1,Basics of Shell - 1
+DA107,q06s2,Basics of Shell - 1
+DA107,q07s1,Basics of Shell - 2
+DA107,q07s2,Basics of Shell - 2
+DA107,q08s1,Basics of Shell - 3
+DA107,q08s2,Basics of Shell - 3
+DA107,q09s1,Package management
+DA107,q09s2,Package management
+DA107,q10s1,User management
+DA107,q10s2,User management
+DA107,q11s1,File systems
+DA107,q11s2,File systems
+DA107,q12s1,System configuration and device drivers
+DA107,q12s2,System configuration and device drivers
+DA108,q01s1,Fundamental concepts
+DA108,q01s2,Fundamental concepts
+DA108,q02s1,Conditional statements
+DA108,q02s2,Conditional statements
+DA108,q03s1,Loops
+DA108,q03s2,Loops
+DA108,q04s1,Data structures: Lists
+DA108,q04s2,Data structures: Lists
+DA108,q05s1,Data structures: Dictionaries
+DA108,q05s2,Data structures: Dictionaries
+DA108,q06s1,Data structures: Sets
+DA108,q06s2,Data structures: Sets
+DA108,q07s1,Data structures: Use cases
+DA108,q07s2,Data structures: Use cases
+DA108,q08s1,Functions: Procedural
+DA108,q08s2,Functions: Procedural
+DA108,q09s1,Functions: Recursive
+DA108,q09s2,Functions: Recursive
+DA108,q10s1,Classes
+DA108,q10s2,Classes
+DA108,q11s1,Exception handling
+DA108,q11s2,Exception handling
+DA108,q12s1,File handling
+DA108,q12s2,File handling

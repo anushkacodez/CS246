@@ -1,0 +1,11 @@
+Hello Everyone,
+
+Today's lab problem and associated database is attached.
+In addition to section 3.1, 3.2 and 3.9 of the text book, you are also advised to refer to section 4.4 of the text book. This lab is focused to  on data definition language SQL statements.
+
+You are provided with manual pages on insert, delete, update, alter table, foreign key, drop table.
+
+Download the database.tgz and use the following command "tar -xvzf database.tgz" to extract the files.
+Download the help-files.tgz and use the following command "tar -xvzf help-files.tgz" to extract the files.
+
+with regards,
